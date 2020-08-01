@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import org.junit.Test;
 
 /*
- * UDP通訊協議的網路程式
+ * 操作UDP網路程式
  */
 public class Demo01 {
 

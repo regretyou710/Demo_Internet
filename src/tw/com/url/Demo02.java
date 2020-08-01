@@ -11,7 +11,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 /*
- * URL程式
+ * 操作URL網路程式
  */
 public class Demo02 {
 

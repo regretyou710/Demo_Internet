@@ -4,7 +4,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /*
- * URL程式 * 
+ * 操作URL網路程式
  */
 public class Demo01 {
 
