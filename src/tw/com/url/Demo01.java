@@ -4,7 +4,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /*
- * URL程式
+ * URL程式 * 
  */
 public class Demo01 {
 
@@ -12,6 +12,8 @@ public class Demo01 {
 
 		try {
 			URL url = new URL("https://www.youtube.com/watch?v=795GFbq7gRk");
+			
+			//常用方法
 			System.out.println("獲取該URL的協議: "+url.getProtocol());
 			System.out.println("獲取該URL的主機名: "+url.getHost());
 			System.out.println("獲取該URL的埠號: "+url.getPort());
