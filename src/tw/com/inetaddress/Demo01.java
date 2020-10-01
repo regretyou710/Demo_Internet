@@ -28,7 +28,6 @@ public class Demo01 {
 			System.out.println(inte2.getHostName());
 			System.out.println(inte2.getHostAddress());
 		} catch (UnknownHostException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
